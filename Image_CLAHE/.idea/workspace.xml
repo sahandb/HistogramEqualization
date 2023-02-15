@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e10a1e80-0052-4df0-9f70-7171e7d123ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YXML5k8McBmkZXPeQ1sWewPEO9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sahand\PycharmProjects\Image_CLAHE" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CLAHE" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Image_CLAHE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Sahand\.conda\envs\PyCharm\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLAHE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Image_CLAHE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10a1e80-0052-4df0-9f70-7171e7d123ff" name="Default Changelist" comment="" />
+      <created>1583084426079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583084426079</updated>
+      <workItem from="1583084427540" duration="282000" />
+      <workItem from="1583163132807" duration="1669000" />
+      <workItem from="1583235641591" duration="1130000" />
+      <workItem from="1583478092571" duration="268000" />
+      <workItem from="1583489372503" duration="1566000" />
+      <workItem from="1583496940495" duration="2957000" />
+      <workItem from="1583513820460" duration="5940000" />
+      <workItem from="1583521590664" duration="641000" />
+      <workItem from="1583526776895" duration="4502000" />
+      <workItem from="1583755681165" duration="978000" />
+      <workItem from="1583784073512" duration="55000" />
+      <workItem from="1583833555908" duration="1399000" />
+      <workItem from="1583835207004" duration="2000" />
+      <workItem from="1583835221164" duration="1388000" />
+      <workItem from="1583836622132" duration="1464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583084592085">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583084592085" />
+    <state width="1309" height="619" key="DebuggerActiveHint" timestamp="1583497525430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1309" height="619" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1583497525430" />
+    <state x="740" y="280" width="440" height="506" key="FileChooserDialogImpl" timestamp="1583531014525">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="592" y="222" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583519304383" />
+    <state x="740" y="280" width="440" height="506" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583531014525" />
+    <state width="1877" height="438" key="GridCell.Tab.0.bottom" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.0.center" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.0.left" timestamp="1583838322882">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322882" />
+    <state width="1877" height="438" key="GridCell.Tab.0.right" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.1.bottom" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.1.center" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.1.left" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state width="1877" height="438" key="GridCell.Tab.1.right" timestamp="1583838322883">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="327" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1583521285743" />
+    <state width="1877" height="438" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583838322883" />
+    <state x="636" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1583836622073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="509" y="277" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1583496940512" />
+    <state x="636" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583836622073" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="asd.astype(np.float32)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Image_CLAHE$CLAHE.coverage" NAME="CLAHE Coverage Results" MODIFIED="1583836701217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
